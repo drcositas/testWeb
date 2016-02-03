@@ -1,0 +1,11 @@
+    /*
+    Theme Name: Business Essentials Child Theme
+    Theme URI: http: //mysite.com/
+    Description: This is a custom child theme I have created.
+    Author: My Name
+    Author URI: http: //mysite.com/
+    Template: business-essentials-wp
+    Version: 0.1
+    */
+
+    @import url("../business-essentials-wp/style.css");
